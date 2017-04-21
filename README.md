@@ -28,7 +28,7 @@
 
 ## 精致Demo
 
-![](http://images0.cnblogs.com/blog2015/275810/201508/232033560975081.jpg =350)
+![](http://images0.cnblogs.com/blog2015/275810/201508/232033560975081.jpg =350x)
 
 ![](http://images0.cnblogs.com/blog2015/275810/201508/232033087389945.jpg)
 
